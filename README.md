@@ -41,6 +41,10 @@ chmod +x Resource-Manager(liveterminalfeed).sh
 
 ./Resource-Manager(liveterminalfeed).sh --once
 ```
+<img width="636" alt="pg1" src="https://github.com/user-attachments/assets/48b02098-ada8-4ec7-9de7-568f8ec4dfdd" />
+
+<img width="641" alt="opinux" src="https://github.com/user-attachments/assets/690a0e72-1796-4ade-8f76-9464307a354d" />
+
 
 ## Email Version 
 
