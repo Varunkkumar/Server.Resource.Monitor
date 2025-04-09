@@ -1,7 +1,7 @@
 #!/bin/bash
 
 EMAIL="Varunkausal2004@gmail.com"   
-SUBJECT="🖥️ Linux Resource Report - $(hostname)"
+SUBJECT=" Linux Resource Report - $(hostname)"
 BODY=$(mktemp)           
 
 {
